@@ -1,7 +1,12 @@
-### Hi there 👋
+## Welcome 👋
+
+- 🌱 I'm currently learning... Java, HTML, CSS, JS, C/C++, etc.
+- 🔭 I'm currently working on... creating a professional portfolio, achieving higher education, and more!
+- 📫 How to reach me: [📧](mailto::jacobharris5705@gmail.com)
+- 💬 Ask me about... Java, project design, graphic arts, and how to improve products.
 
 <!--
-**jacobleeharris/jacobleeharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**P/jacobleeharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
