@@ -2,7 +2,8 @@
 
 - 🌱 I'm currently learning... Java, HTML, CSS, JS, C/C++, etc.
 - 🔭 I'm currently working on... creating a professional portfolio, achieving higher education, and more!
-- 📫 How to reach me: [📧](mailto::jacobharris5705@gmail.com)
+- 📫 How to reach me: 
+  - [📧 Email](mailto::jacobharris5705@gmail.com)
 - 💬 Ask me about... Java, project design, graphic arts, and how to improve products.
 
 <!--
