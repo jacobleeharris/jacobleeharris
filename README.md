@@ -1,5 +1,10 @@
 ## Welcome 👋
-
+- Interests
+  - Computer Science
+  - Technology
+  - Arduino
+  - Networking
+  - Mechanics
 - 🌱 I'm currently learning...
   - ☕ Java
   - ⬆️ HTML
@@ -9,13 +14,13 @@
 - 🔭 I'm currently working on...
   - 🗞️ creating a professional portfolio
   - 📖 achieving higher education
-  - and more!
-- 📫 How to reach me...
-  - [📧 Email](mailto::jacobharris5705@gmail.com)
+  - ...and more!
 - 💬 Ask me about...
   - ☕ Java
   - 📰 Project design
   - 🎨 Graphic arts
+- 📫 How to reach me...
+  - [📧 Email](mailto::jacobharris5705@gmail.com)
 
 <!--
 **P/jacobleeharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
