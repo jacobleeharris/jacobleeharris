@@ -5,6 +5,7 @@
   - ⬆️ HTML
   - 🖊️ CSS
   - 📜 JS
+  - 🪛 C/C++
 - 🔭 I'm currently working on...
   - 🗞️ creating a professional portfolio
   - 📖 achieving higher education
