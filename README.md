@@ -13,8 +13,8 @@
   - 🪛 C/C++
 - 🔭 I'm currently working on...
   - 🗞️ creating a professional portfolio
-  - 📖 achieving higher education
-  - ...and more!
+  - 📖 pursuing higher education
+  - ... and more!
 - 💬 Ask me about...
   - ☕ Java
   - 📰 Project design
