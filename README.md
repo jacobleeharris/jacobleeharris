@@ -1,4 +1,6 @@
 ## Welcome 👋
+Hello!
+
 - Interests
   - Computer Science
   - Technology
@@ -14,6 +16,7 @@
 - 🔭 I'm currently working on...
   - 🗞️ creating a professional portfolio
   - 📖 pursuing higher education
+  - 💻 messing with Linux
   - ... and more!
 - 💬 Ask me about...
   - ☕ Java
