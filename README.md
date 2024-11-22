@@ -23,5 +23,5 @@ Hello!
   - 📰 Project design
   - 🎨 Graphic arts
 - 📫 How to reach me...
-  - [📧 Email](mailto::jacobharris5705@gmail.com)
-  - [📒 LinkedIn](https://www.linkedin.com/in/jacob-lee-harris/)
+  - 📧 [Email](mailto::jacobharris5705@gmail.com)
+  - 📒 [LinkedIn](https://www.linkedin.com/in/jacob-lee-harris/)
